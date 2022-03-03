@@ -8,6 +8,5 @@
 - 🔭 I’m currently looking for job as a Web App Developer
 - 🌱 I’m currently learning Go Lang!
 - 👯 I’m looking to collaborate on NodeJS, React, Redux, NextJS, Flutter, React Native
-- 📫 How to reach me: Please message me in my [portfolio](https://arcival-palma.web.app/).
 - 😄 Pronouns: He/Him
 - ⚡ Quirky fact: Maybe its just me, but I love staring my laundry into the glass of washing machine :relaxed:.
