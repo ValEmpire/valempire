@@ -1,5 +1,5 @@
 ## Hi there, I'm Val!👋
-### [Portfolio](https://arcival-palma.web.app/) :point_left:
+### [Portfolio](https://arcival-palma.web.app/) :point_left: :eyes:
 
 #### 🚀 About Me
  Ambitious and driven wev app developer with a broad technical skills set. Expertise in RESTful apis using Node and Express, and well versed in client side or server side rendering in React and Redux.
