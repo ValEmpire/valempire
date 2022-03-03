@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there, I'm Val!👋
+### [Portfolio](https://arcival-palma.web.app/) :point_left:
 
-<!--
-**ValEmpire/valempire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🚀 About Me
+ Ambitious and driven wev app developer with a broad technical skills set. Expertise in RESTful apis using Node and Express, and well versed in client side or server side rendering in React and Redux.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently looking for job as a Web App Developer
+- 🌱 I’m currently learning Go Lang!
+- 👯 I’m looking to collaborate on NodeJS, React, Redux, NextJS, Flutter, React Native
+- 📫 How to reach me: Please message me in my [portfolio](https://arcival-palma.web.app/).
+- 😄 Pronouns: He/Him
+- ⚡ Quirky fact: Maybe its just me, but I love staring my laundry into the glass of washing machine :relaxed:.
