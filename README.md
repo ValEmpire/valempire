@@ -5,8 +5,8 @@
  Ambitious and driven wev app developer with a broad technical skills set. Expertise in RESTful apis using Node and Express, and well versed in client side or server side rendering in React and Redux.
 
 
-- 🔭 I’m currently looking for job as a Web App Developer
-- 🌱 I’m currently learning Go Lang!
+- 🔭 I'm currently working at Trillium Architectural Products in Toronto CA as Web App Developer.
+- 🌱 I’m currently Symfony!
 - 👯 I’m looking to collaborate on NodeJS, React, Redux, NextJS, Flutter, React Native
 - 😄 Pronouns: He/Him
 - ⚡ Quirky fact: Maybe its just me, but I love staring my laundry into the glass of washing machine :relaxed:.
