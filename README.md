@@ -9,3 +9,4 @@
 - 🌱 I’m currently learning Symfony!
 - 👯 I’m looking to collaborate on NodeJS, React, Redux, NextJS, Flutter, React Native
 - 😄 Pronouns: He/Him
+- ♔  1800 Chess FIDE Rating
